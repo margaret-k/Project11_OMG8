@@ -1,0 +1,37 @@
+Enter length n1, n2 and two sets of numbers with such length:
+Two strings:
+1 2 
+6798789 78978967 8697899 
+
+enter index and value
+first string, add 1 to index 1
+1 1 2 
+
+enter index and value
+first string, replace by 1 on index 1
+1 1 
+
+enter index
+add second string to first string on index 0
+6798789 78978967 8697899 1 2 
+
+find second (return first index where meet second string in first)
+-1
+
+enter index1 and index2
+cut first string from index 0 to 1
+1 
+
+encode first string
+1 2 
+
+decode next bytes
+1 2 
+1 2 
+
+2 : -1
+10 : 12
+16 : 18
+
+str1 is number, binary:
+1 1 0 0 
